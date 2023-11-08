@@ -1,2 +1,2 @@
 # TC2008B
-### Link al [Google Colab](https://colab.research.google.com/github/santiagordz/multi-agentes/blob/main/main.ipynb)
+##### Actividades y Ejercicios de [Santiago](https://github.com/santiagordz)
